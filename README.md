@@ -1,7 +1,5 @@
 # Educational Performance Analysis
 
-# Educational Performance Analysis
-
 ## Project Overview
 This project analyzes factors influencing student exam performance using nonparametric statistical methods. Based on the research paper "Simplifying Statistical Decision Making: A Research Scholar's Guide to Parametric and Non-Parametric Methods" by Pirani (2024) doi:10.56815/IJMRR.V3I3.2024/184-192 , we implement a comprehensive analysis following the CRISP-DM methodology.
 
